@@ -4,10 +4,10 @@ This project aims to detect object colors based on light reflection density usin
 ![Alt text](/img/wholething.jpg?raw=true "Working project")
 
 ### Circuit Diagram
-![Alt text](/img/CircuitDiagram.jpg?raw=true "Circuit diagram")
+![Alt text](/img/CircuitDiagram.png?raw=true "Circuit diagram")
 
 ### Flow diagram
-![Alt text](/img/ColorSensingProjectDiagram.jpg?raw=true "Flow diagram")
+![Alt text](/img/ColorSensingProjectDiagram.PNG?raw=true "Flow diagram")
 
 ### Contributers
   - Saleem AlOtaibi [[@ServeR00T][saleem-tw]]
